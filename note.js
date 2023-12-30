@@ -1,2 +1,0 @@
-const firstToken =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0VXNlciIsImlkIjoiNjU2Nzc2NjI5YzhkYmQ4MjY4ZWU0ZjNiIiwiaWF0IjoxNzAxMjc5MzgwLCJleHAiOjE3MDEyOTAxODB9.-3GtTtJAbuEkpgG5cfu4I7ySZmnbun2YjZk5JZ_IFZE";
